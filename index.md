@@ -9,3 +9,8 @@
 - [SoundCloud](https://soundcloud.com/lylythii)
 - [Spotify](https://open.spotify.com/user/phbsaxbo0hqqoufu4hga4816r)
 - [GitHub](https://github.com/Lylythii)
+
+### Donate:
+- [Patreon](https://www.patreon.com/Lylythii)
+- [Ko-FI](Ko-fi.com/lylythii)
+- [PayPal](https://www.paypal.com/paypalme/lylythii)
