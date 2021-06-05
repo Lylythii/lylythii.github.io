@@ -18,5 +18,8 @@
 
 
 
-### Random Suggested Websites:
+### Suggested Websites [Not Mine]:
 - [1](https://en.wikipedia.org/wiki/The_Game_(mind_game))
+- [Minecraft](https://www.minecraft.net/en-us)
+- [Vintage Story](https://www.vintagestory.at/)
+- [CraftTweaker](https://docs.blamejared.com/1.12/en/index/)
