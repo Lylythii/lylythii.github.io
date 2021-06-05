@@ -15,3 +15,8 @@
 - [Patreon](https://www.patreon.com/Lylythii)
 - [Ko-FI](https://ko-fi.com/lylythii)
 - [PayPal](https://www.paypal.com/paypalme/lylythii)
+
+
+
+### Random Suggested Websites:
+- [1](https://en.wikipedia.org/wiki/The_Game_(mind_game))
