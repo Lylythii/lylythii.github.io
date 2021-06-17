@@ -19,7 +19,7 @@
 
 
 ### Suggested Websites [Not Mine]:
-- [1](https://en.wikipedia.org/wiki/The_Game_(mind_game))
+- [1](https://sites.google.com/view/youjustlostthegame/home)
 - [Minecraft](https://www.minecraft.net/en-us)
 - [Vintage Story](https://www.vintagestory.at/)
 - [CraftTweaker](https://docs.blamejared.com/1.12/en/index/)
