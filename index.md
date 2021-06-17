@@ -5,6 +5,7 @@
 - [Twitter](https://twitter.com/lylythii)
 - [Twitch](https://www.twitch.tv/lylythii)
 - [CurseForge](https://www.curseforge.com/members/lylythii/followers)
+- [Vintage Story](https://www.vintagestory.at/profile/48568-lylythii/)
 - [Bandcamp](https://lylythii.bandcamp.com/)
 - [SoundCloud](https://soundcloud.com/lylythii)
 - [Spotify](https://open.spotify.com/user/phbsaxbo0hqqoufu4hga4816r)
