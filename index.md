@@ -12,6 +12,7 @@
 - [SoundCloud](https://soundcloud.com/lylythii)
 - [Spotify](https://open.spotify.com/user/phbsaxbo0hqqoufu4hga4816r)
 - [GitHub](https://github.com/Lylythii)
+- [Stack Overflow](https://stackoverflow.com/users/16361766/lylythii)
 - [Pixiv](https://www.pixiv.net/en/users/69876794)
 - [Pinterest](https://www.pinterest.ie/Lylythii/)
 
