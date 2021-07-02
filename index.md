@@ -14,6 +14,7 @@
 - [GitHub](https://github.com/Lylythii)
 - [Stack Overflow](https://stackoverflow.com/users/16361766/lylythii)
 - [Pixiv](https://www.pixiv.net/en/users/69876794)
+- [Deviant Art](https://www.deviantart.com/lylythii)
 - [Pinterest](https://www.pinterest.ie/Lylythii/)
 
 ### Donate:
