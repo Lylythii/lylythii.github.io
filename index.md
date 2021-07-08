@@ -16,6 +16,7 @@
 - [Pixiv](https://www.pixiv.net/en/users/69876794)
 - [Deviant Art](https://www.deviantart.com/lylythii)
 - [Pinterest](https://www.pinterest.ie/Lylythii/)
+- [Amazon](https://www.amazon.com/gp/profile/amzn1.account.AGANNRRGSNQU4RIE3EXGX3LYQF7A?e_tf=1)
 
 ### Donate:
 - [Patreon](https://www.patreon.com/Lylythii)
