@@ -21,8 +21,8 @@
 ### Donate:
 - [Patreon](https://www.patreon.com/Lylythii)
 - [Ko-FI](https://ko-fi.com/lylythii)
+- [Buy Me A Coffee](https://www.buymeacoffee.com/lylythii)
 - [PayPal](https://www.paypal.com/paypalme/lylythii)
-
 
 
 ### Suggested Websites [Not Mine]:
