@@ -20,6 +20,7 @@
 - [Twitter Accounts](https://sites.google.com/view/lylythii/social/twitter)
 
 - [Twitch](https://www.twitch.tv/lylythii)
+- [Twitch Accounts](https://sites.google.com/view/lylythii/social/twitch)
 
 - [Stack Overflow](https://stackoverflow.com/users/16361766/lylythii)
 
