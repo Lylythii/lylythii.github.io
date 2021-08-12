@@ -1,22 +1,9 @@
-
-
 ### Where you can find me:
-- [YouTube](https://www.youtube.com/channel/UCZzAFHezw4sGB_lTow6NBGQ)
-- [Twitter](https://twitter.com/lylythii)
-- [Twitch](https://www.twitch.tv/lylythii)
-- [CurseForge](https://www.curseforge.com/members/lylythii/followers)
-- [Modrinth](https://modrinth.com/user/OwunD78b)
-- [Forge Forums](https://forums.minecraftforge.net/profile/169917-lylythii/)
-- [Vintage Story](https://www.vintagestory.at/profile/48568-lylythii/)
-- [Bandcamp](https://lylythii.bandcamp.com/)
-- [SoundCloud](https://soundcloud.com/lylythii)
-- [Spotify](https://open.spotify.com/user/phbsaxbo0hqqoufu4hga4816r)
+- [Website](https://sites.google.com/view/lylythii/home)
+- [Carrd](https://lylythii.carrd.co/)
+- [GitHub IO](https://lylythii.github.io/)
 - [GitHub](https://github.com/Lylythii)
-- [Stack Overflow](https://stackoverflow.com/users/16361766/lylythii)
-- [Pixiv](https://www.pixiv.net/en/users/69876794)
-- [Deviant Art](https://www.deviantart.com/lylythii)
-- [Pinterest](https://www.pinterest.ie/Lylythii/)
-- [Amazon](https://www.amazon.com/gp/profile/amzn1.account.AGANNRRGSNQU4RIE3EXGX3LYQF7A?e_tf=1)
+
 
 ### Donate:
 - [Patreon](https://www.patreon.com/Lylythii)
@@ -25,17 +12,30 @@
 - [PayPal](https://www.paypal.com/paypalme/lylythii)
 
 
-### Suggested Websites [Not Mine]:
-- [1](https://sites.google.com/view/youjustlostthegame/home)
-- [Minecraft](https://www.minecraft.net/en-us)
+### Profiles:
+- [YouTube](https://www.youtube.com/channel/UCZzAFHezw4sGB_lTow6NBGQ)
+- [YouTube Accounts](https://sites.google.com/view/lylythii/social/youtube)
+- 
+- [Twitter](https://twitter.com/lylythii)
+- [Twitter Accounts](https://sites.google.com/view/lylythii/social/twitter)
+- 
+- [Twitch](https://www.twitch.tv/lylythii)
+- 
+- [Stack Overflow](https://stackoverflow.com/users/16361766/lylythii)
+- 
+- [Forge Forums](https://forums.minecraftforge.net/profile/169917-lylythii/)
+- 
+- [CurseForge](https://www.curseforge.com/members/lylythii/followers)
+- [Modrinth](https://modrinth.com/user/OwunD78b)
+
 - [Vintage Story](https://www.vintagestory.at/profile/48568-lylythii/)
-- [CraftTweaker](https://docs.blamejared.com/1.12/en/index/)
-- [Irish-HipHop.com](http://irishhiphop.com/forum/)
-
-
-
-
-
-
-### Unfinished
-- [WIP Web Page](https://sites.google.com/view/lylythii/home)
+- 
+- [Bandcamp](https://lylythii.bandcamp.com/)
+- [SoundCloud](https://soundcloud.com/lylythii)
+- [Spotify](https://open.spotify.com/user/phbsaxbo0hqqoufu4hga4816r)
+- 
+- [Pixiv](https://www.pixiv.net/en/users/69876794)
+- [Deviant Art](https://www.deviantart.com/lylythii)
+- [Pinterest](https://www.pinterest.ie/Lylythii/)
+- 
+- [Amazon](https://www.amazon.com/gp/profile/amzn1.account.AGANNRRGSNQU4RIE3EXGX3LYQF7A?e_tf=1)
