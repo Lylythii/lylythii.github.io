@@ -3,6 +3,7 @@
 - [Carrd](https://lylythii.carrd.co/)
 - [GitHub IO](https://lylythii.github.io/)
 - [GitHub](https://github.com/Lylythii)
+- [Archive.org](https://archive.org/details/@lylythii)
 
 
 ### Donate:
