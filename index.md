@@ -26,6 +26,7 @@
 - [Stack Overflow](https://stackoverflow.com/users/16361766/lylythii)
 
 - [Forge Forums](https://forums.minecraftforge.net/profile/169917-lylythii/)
+- [Feed The Beast Forums](https://forum.feed-the-beast.com/members/lylythii.490154)
 
 - [CurseForge](https://www.curseforge.com/members/lylythii/followers)
 - [Modrinth](https://modrinth.com/user/OwunD78b)
