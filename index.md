@@ -27,6 +27,7 @@
 
 - [Forge Forums](https://forums.minecraftforge.net/profile/169917-lylythii/)
 - [Feed The Beast Forums](https://forum.feed-the-beast.com/members/lylythii.490154)
+- [Minecraft Forums](https://www.minecraftforum.net/members/Lylythii)
 - [Planet Minecraft](https://www.planetminecraft.com/member/lylythii/)
  
 - [CurseForge](https://www.curseforge.com/members/lylythii/followers)
