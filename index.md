@@ -13,6 +13,11 @@
 - [PayPal](https://www.paypal.com/paypalme/lylythii)
 
 
+### Community:
+- [Discord Server](https://discord.gg/fqUMCN5Ntq)
+- [Guilded Guild](https://www.guilded.gg/Lylythii)
+
+
 ### Profiles:
 - [YouTube](https://www.youtube.com/channel/UCZzAFHezw4sGB_lTow6NBGQ)
 - [YouTube Accounts](https://sites.google.com/view/lylythii/social/youtube)
