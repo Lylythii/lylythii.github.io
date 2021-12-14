@@ -53,6 +53,8 @@
 - [Amazon](https://www.amazon.com/gp/profile/amzn1.account.AGANNRRGSNQU4RIE3EXGX3LYQF7A?e_tf=1)
 - [Enjin](https://www.enjin.com/profile/20879186)
 
+- [VTubie](https://vtubie.com/u/Lylythii/)
+
 
 ### Other
 - [Make Millibuckets a Real Unit of Measurement](https://www.change.org/millibucket)
