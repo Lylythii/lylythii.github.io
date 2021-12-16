@@ -1,6 +1,7 @@
 ### Where you can find me:
+- [Contact Information](https://sites.google.com/view/lylythii/contact)
 - [Website](https://sites.google.com/view/lylythii/home)
-- [Carrd](https://lylythii.carrd.co/)
+- [Carrd.co](https://lylythii.carrd.co/)
 - [GitHub IO](https://lylythii.github.io/)
 - [GitHub](https://github.com/Lylythii)
 - [Archive.org](https://archive.org/details/@lylythii)
@@ -19,22 +20,23 @@
 
 
 ### Profiles:
-- [YouTube](https://www.youtube.com/channel/UCZzAFHezw4sGB_lTow6NBGQ)
+- [Primary YouTube](https://www.youtube.com/channel/UCZzAFHezw4sGB_lTow6NBGQ)
 - [YouTube Accounts](https://sites.google.com/view/lylythii/social/youtube)
 
-- [Twitter](https://twitter.com/lylythii)
+- [Primary Twitter](https://twitter.com/lylythii)
 - [Twitter Accounts](https://sites.google.com/view/lylythii/social/twitter)
 
-- [Twitch](https://www.twitch.tv/lylythii)
+- [Primary Twitch](https://www.twitch.tv/lylythii)
 - [Twitch Accounts](https://sites.google.com/view/lylythii/social/twitch)
 
 - [Stack Overflow](https://stackoverflow.com/users/16361766/lylythii)
 
 - [Forge Forums](https://forums.minecraftforge.net/profile/169917-lylythii/)
 - [Feed The Beast Forums](https://forum.feed-the-beast.com/members/lylythii.490154)
+- [TerraFirmaCraft Forums](https://tng.terrafirmacraft.com/User:Lylythii)
 - [GregTech: New Horizons Forums](https://www.gtnewhorizons.com/profile/20879186)
 - [Minecraft Forums](https://www.minecraftforum.net/members/Lylythii)
-- [Planet Minecraft](https://www.planetminecraft.com/member/lylythii/)
+- [Planet Minecraft](https://www.planetminecraft.com/member/lylythii)
  
 - [CurseForge](https://www.curseforge.com/members/lylythii/followers)
 - [Modrinth](https://modrinth.com/user/OwunD78b)
@@ -57,4 +59,7 @@
 
 
 ### Other
-- [Make Millibuckets a Real Unit of Measurement](https://www.change.org/millibucket)
+- [Change.org/Millibucket - Help make Millibuckets a Real Unit of Measurement.](https://www.change.org/millibucket)
+- [GT:NH 24/7 - Streaming GregTech: New Horizons 24/7 up until the last quest is completed.](https://sites.google.com/view/lylythii/project/gtnh247)
+- [Foresight - Projects & Information](https://github.io/terrafirmacraft-reloaded)
+- [TerraFirmaCraft: Reloaded - Projects & Information](https://github.io/teamforesight)
