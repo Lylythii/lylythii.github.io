@@ -61,5 +61,5 @@
 ### Other
 - [Change.org/Millibucket - Help make Millibuckets a Real Unit of Measurement.](https://www.change.org/millibucket)
 - [GT:NH 24/7 - Streaming GregTech: New Horizons 24/7 up until the last quest is completed.](https://sites.google.com/view/lylythii/project/gtnh247)
-- [Foresight - Projects & Information](https://github.io/terrafirmacraft-reloaded)
-- [TerraFirmaCraft: Reloaded - Projects & Information](https://github.io/teamforesight)
+- [Foresight - Projects & Information](https://github.io/teamforesight)
+- [TerraFirmaCraft: Reloaded - Projects & Information](https://github.io/terrafirmacraft-reloaded)
