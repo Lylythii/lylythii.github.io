@@ -46,6 +46,7 @@
 - [Bandcamp](https://lylythii.bandcamp.com/)
 - [SoundCloud](https://soundcloud.com/lylythii)
 - [Spotify](https://open.spotify.com/user/phbsaxbo0hqqoufu4hga4816r)
+- [Mixcloud](https://www.mixcloud.com/Lylythii/)
 
 - [Pixiv](https://www.pixiv.net/en/users/69876794)
 - [Deviant Art](https://www.deviantart.com/lylythii)
