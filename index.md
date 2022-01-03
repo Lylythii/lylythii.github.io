@@ -1,6 +1,9 @@
 ### Where you can find me
 - [Contact Information](https://sites.google.com/view/lylythii/contact) | [How to Refer to Me](https://en.pronouns.page/@Lylythii) | ["About Me" Page](https://sites.google.com/view/lylythii/about)
-- [Website](https://sites.google.com/view/lylythii/home) | [Carrd.co](https://lylythii.carrd.co/) | [GitHub IO](https://lylythii.github.io/)
+- 
+- [Website](https://sites.google.com/view/lylythii/home)
+- [Carrd.co](https://lylythii.carrd.co/)
+- [GitHub IO](https://lylythii.github.io/)
 
 - [GitHub](https://github.com/Lylythii)
 - [Stack Overflow](https://stackoverflow.com/users/16361766/lylythii)
@@ -15,13 +18,13 @@
 
 
 ### Community
-- [Discord Server](https://discord.gg/fqUMCN5Ntq) | [Guilded Guild](https://www.guilded.gg/Lylythii)
+- [Discord Server](https://discord.gg/fqUMCN5Ntq) - [Guilded Guild](https://www.guilded.gg/Lylythii)
 
 
 ### Profiles | Socials | Media | Streaming
-- [Primary YouTube](https://www.youtube.com/channel/UCZzAFHezw4sGB_lTow6NBGQ) | [YouTube Accounts](https://sites.google.com/view/lylythii/social/youtube)
-- [Primary Twitter](https://twitter.com/lylythii) | [Twitter Accounts](https://sites.google.com/view/lylythii/social/twitter)
-- [Primary Twitch](https://www.twitch.tv/lylythii) | [Twitch Accounts](https://sites.google.com/view/lylythii/social/twitch)
+- [Primary YouTube](https://www.youtube.com/channel/UCZzAFHezw4sGB_lTow6NBGQ) - [YouTube Accounts](https://sites.google.com/view/lylythii/social/youtube)
+- [Primary Twitter](https://twitter.com/lylythii) - [Twitter Accounts](https://sites.google.com/view/lylythii/social/twitter)
+- [Primary Twitch](https://www.twitch.tv/lylythii) - [Twitch Accounts](https://sites.google.com/view/lylythii/social/twitch)
 
 
 #### Forums | Threads
