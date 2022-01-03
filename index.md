@@ -1,5 +1,5 @@
 ### Where you can find me:
-- [Contact Information](https://sites.google.com/view/lylythii/contact)
+- [Contact Information](https://sites.google.com/view/lylythii/contact) - [How to Refer to Me](https://en.pronouns.page/@Lylythii) - ["About Me" Page](https://sites.google.com/view/lylythii/about)
 - [Website](https://sites.google.com/view/lylythii/home)
 - [Carrd.co](https://lylythii.carrd.co/)
 - [GitHub IO](https://lylythii.github.io/)
