@@ -1,6 +1,10 @@
 ### Where you can find me
 - [Contact Information](https://sites.google.com/view/lylythii/contact) | [How to Refer to Me](https://en.pronouns.page/@Lylythii) | ["About Me" Page](https://sites.google.com/view/lylythii/about)
-- 
+
+
+<iframe scrolling="no" style="border: 0;width: 100%;height: 50px;" src="https://bandcamp.com/band_follow_button_deluxe/580516143"></iframe>
+
+
 - [Website](https://sites.google.com/view/lylythii/home)
 - [Carrd.co](https://lylythii.carrd.co/)
 - [GitHub IO](https://lylythii.github.io/)
@@ -45,8 +49,6 @@
 - [SoundCloud](https://soundcloud.com/lylythii)
 - [Spotify](https://open.spotify.com/user/phbsaxbo0hqqoufu4hga4816r)
 - [Mixcloud](https://www.mixcloud.com/Lylythii/)
-
-<iframe scrolling="no" style="border: 0;width: 100%;height: 50px;" src="https://bandcamp.com/band_follow_button_deluxe/580516143"></iframe>
 
 ### Art | Media
 - [Pixiv](https://www.pixiv.net/en/users/69876794)
