@@ -27,7 +27,7 @@
 
 
 ### Profiles | Socials | Media | Streaming
-- [Primary YouTube](https://www.youtube.com/channel/UCZzAFHezw4sGB_lTow6NBGQ) - [YouTube Accounts](https://sites.google.com/view/lylythii/social/youtube)
+- [Primary YouTube](https://www.youtube.com/c/Lylythii) - [YouTube Accounts](https://sites.google.com/view/lylythii/social/youtube)
 - [Primary Twitter](https://twitter.com/lylythii) - [Twitter Accounts](https://sites.google.com/view/lylythii/social/twitter)
 - [Primary Twitch](https://www.twitch.tv/lylythii) - [Twitch Accounts](https://sites.google.com/view/lylythii/social/twitch)
 
