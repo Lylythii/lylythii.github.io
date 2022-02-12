@@ -39,7 +39,8 @@
 - [GregTech: New Horizons Forums](https://www.gtnewhorizons.com/profile/20879186)
 - [Minecraft Forums](https://www.minecraftforum.net/members/Lylythii)
 - [Planet Minecraft](https://www.planetminecraft.com/member/lylythii)
- 
+- [GregTech x Mechaenetia](https://forum.mechaenetia.com/u/lylythii)
+
 - [CurseForge](https://www.curseforge.com/members/lylythii/followers)
 - [Modrinth](https://modrinth.com/user/OwunD78b)
 
