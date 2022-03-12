@@ -73,3 +73,4 @@
 - [How old are the Horizons in GregTech: New Horizons today?](https://howoldarethehorizonsingregtechnewhorizons.today/) - Site by [Lgmrszd](https://twitter.com/lgmrszd)
 - [Foresight - Projects & Information](https://teamforesight.github.io)
 - [TerraFirmaCraft: Reloaded - Projects & Information](https://terrafirmacraft-reloaded.github.io)
+- [Asiekierka's Minecraft-Tans Wiki](https://zeta.asie.pl/wiki/doku.php?id=research:minecraft_tans)
