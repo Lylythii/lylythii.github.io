@@ -51,6 +51,7 @@
 ### Music | Audio | Sound
 - [Bandcamp](https://lylythii.bandcamp.com/)
 - [SoundCloud](https://soundcloud.com/lylythii)
+- [Deezer](https://www.deezer.com/en/profile/4492277082)
 - [Spotify](https://open.spotify.com/user/phbsaxbo0hqqoufu4hga4816r)
 - [Mixcloud](https://www.mixcloud.com/Lylythii/)
 
