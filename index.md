@@ -24,7 +24,7 @@
 
 
 ### Community
-- [Discord Server](https://discord.gg/fqUMCN5Ntq) - [Guilded Guild](https://www.guilded.gg/Lylythii)
+- [Discord Server](https://discord.gg/xsbNuYXBd5) - [Guilded Guild](https://www.guilded.gg/Lylythii)
 <iframe src="https://discord.com/widget?id=872021270135439381&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 
