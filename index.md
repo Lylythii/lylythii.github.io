@@ -25,7 +25,6 @@
 
 ### Community
 - [Discord Server](https://discord.gg/xsbNuYXBd5) - [Guilded Guild](https://www.guilded.gg/Lylythii)
-<iframe src="https://discord.com/widget?id=872021270135439381&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 
 ### Profiles | Socials | Media | Streaming
@@ -74,3 +73,14 @@
 - [Foresight - Projects & Information](https://teamforesight.github.io)
 - [TerraFirmaCraft: Reloaded - Projects & Information](https://terrafirmacraft-reloaded.github.io)
 - [Asiekierka's Minecraft-Tans Wiki](https://zeta.asie.pl/wiki/doku.php?id=research:minecraft_tans)
+
+
+
+### Discord Servers - Owned or Co-Owned by Myself
+
+#### All Things Lylythii | Owner | Public Server Dedicated to All Things Lylythii
+<iframe src="https://discord.com/widget?id=872021270135439381&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+#### The TerraFirmaCraft Network | Owner | TerraFirmaCraft Focused Modding Community
+<iframe src="https://discord.com/widget?id=478300826771652610&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+#### Foresight | Co-Owner | Modding Community
+<iframe src="https://discord.com/widget?id=827784247590387762&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
