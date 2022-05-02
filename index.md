@@ -31,6 +31,7 @@
 - [Primary YouTube](https://www.youtube.com/c/Lylythii) - [YouTube Accounts](https://sites.google.com/view/lylythii/social/youtube)
 - [Primary Twitter](https://twitter.com/lylythii) - [Twitter Accounts](https://sites.google.com/view/lylythii/social/twitter)
 - [Primary Twitch](https://www.twitch.tv/lylythii) - [Twitch Accounts](https://sites.google.com/view/lylythii/social/twitch)
+- [NicoNico](https://www.nicovideo.jp/user/124280200)
 
 
 #### Forums | Threads
