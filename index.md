@@ -54,6 +54,7 @@
 - [Deezer](https://www.deezer.com/en/profile/4492277082)
 - [Spotify](https://open.spotify.com/user/phbsaxbo0hqqoufu4hga4816r)
 - [Mixcloud](https://www.mixcloud.com/Lylythii/)
+- [Freesound](https://freesound.org/people/Lylythii/)
 
 ### Art | Media
 - [Pixiv](https://www.pixiv.net/en/users/69876794)
