@@ -55,6 +55,7 @@
 - [Spotify](https://open.spotify.com/user/phbsaxbo0hqqoufu4hga4816r)
 - [Mixcloud](https://www.mixcloud.com/Lylythii/)
 - [Freesound](https://freesound.org/people/Lylythii/)
+- [Looperman](https://www.looperman.com/users/profile/5647408)
 
 ### Art | Media
 - [Pixiv](https://www.pixiv.net/en/users/69876794)
