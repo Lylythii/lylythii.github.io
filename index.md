@@ -22,7 +22,7 @@
 - [Buy Me A Coffee](https://www.buymeacoffee.com/lylythii)
 - [PayPal](https://paypal.me/lylythii)
 - [Throne](https://jointhrone.com/u/lylythii)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M84T6NR)
 
 ### Community
 - [Discord Server](https://discord.gg/xsbNuYXBd5) - [Guilded Guild](https://www.guilded.gg/Lylythii)
