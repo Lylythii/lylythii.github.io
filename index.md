@@ -56,6 +56,7 @@
 - [Deezer](https://www.deezer.com/en/profile/4492277082)
 - [Spotify](https://open.spotify.com/user/phbsaxbo0hqqoufu4hga4816r)
 - [Mixcloud](https://www.mixcloud.com/Lylythii/)
+- [Discogs](https://www.discogs.com/user/Lylythii)
 - [Freesound](https://freesound.org/people/Lylythii/)
 - [Looperman](https://www.looperman.com/users/profile/5647408)
 
