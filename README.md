@@ -3,35 +3,32 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M84T6NR)
 
-- [Contact Information](https://lylythii.github.io/contact.html) | [Pronouns](https://en.pronouns.page/@Lylythii) | [About Me](https://lylythii.github.io/about.html)
-
-
-- [GitHub IO](https://lylythii.github.io)
-- [Carrd.co](https://lylythii.carrd.co/)
-- [Trello](https://trello.com/u/lylythii)
-
-- [GitHub](https://github.com/Lylythii)
-- [Stack Overflow](https://stackoverflow.com/users/16361766/lylythii)
-- [Archive.org](https://archive.org/details/@lylythii)
-- [Miraheze](https://meta.miraheze.org/wiki/User:Lylythii)
-
-
-### Donate
-- [Patreon](https://www.patreon.com/Lylythii)
-- [Ko-FI](https://ko-fi.com/lylythii)
-- [Buy Me A Coffee](https://www.buymeacoffee.com/lylythii)
-- [PayPal](https://paypal.me/lylythii)
-- [Throne](https://jointhrone.com/u/lylythii)
-
+- [Contact Information](https://lylythii.github.io/contact.html) | [Pronouns](https://en.pronouns.page/@Lylythii) | [About Me](https://lylythii.github.io/about.html) | [Donate](https://lylythii.github.io/donate.html)
 
 ### Community
 - [Discord Server](https://discord.gg/xsbNuYXBd5) - [Guilded Guild](https://www.guilded.gg/Lylythii) - [Revolt](https://rvlt.gg/mhm948gx)
 
+### Mods & Modding
+- [CurseForge](https://www.curseforge.com/members/lylythii/projects) | [Modrinth](https://modrinth.com/user/Lylythii)
+
+### Websites
+- [GitHub IO](https://lylythii.github.io) | [Carrd.co](https://lylythii.carrd.co/)
+
+### Miscellaneous
+- [Trello](https://trello.com/u/lylythii)
+- [GitHub](https://github.com/Lylythii)
+- [Stack Overflow](https://stackoverflow.com/users/16361766/lylythii)
+- [Archive.org](https://archive.org/details/@lylythii)
+- [Miraheze](https://meta.miraheze.org/wiki/User:Lylythii)
+- [Amazon](https://www.amazon.com/gp/profile/amzn1.account.AGANNRRGSNQU4RIE3EXGX3LYQF7A?e_tf=1)
+- [Enjin](https://www.enjin.com/profile/20879186)
+- [Suggested Websites](https://lylythii.github.io/suggested.html)
+- [Discord Servers - Owned, Co-Owned, or moderated by Myself](https://lylythii.github.io/discord_servers)
 
 ### Profiles | Socials | Media | Streaming
-- [Primary YouTube](https://www.youtube.com/c/Lylythii) - [YouTube Accounts](https://sites.google.com/view/lylythii/social/youtube)
-- [Primary Twitter](https://twitter.com/lylythii) - [Twitter Accounts](https://sites.google.com/view/lylythii/social/twitter)
-- [Primary Twitch](https://www.twitch.tv/lylythii) - [Twitch Accounts](https://sites.google.com/view/lylythii/social/twitch)
+- [YouTube](https://www.youtube.com/@Lylythii) - [YouTube Accounts](https://lylythii.github.io/accounts/youtube.html)
+- [Twitter](https://twitter.com/lylythii) - [Twitter Accounts](https://lylythii.github.io/accounts/twitter.html)
+- [Twitch](https://www.twitch.tv/lylythii) - [Twitch Accounts](https://lylythii.github.io/accounts/twitch)
 - [TikTok](https://www.tiktok.com/@lylythii)
 - [Instagram](https://www.instagram.com/lylythii_)
 - [NicoNico](https://www.nicovideo.jp/user/124280200)
@@ -46,10 +43,6 @@
 - [GregTech x Mechaenetia](https://forum.mechaenetia.com/u/lylythii)
 - [MCMod.cn - Profile](https://center.mcmod.cn/486508)
 - [MCMod.cn - Author Page](https://www.mcmod.cn/author/26700.html)
-
-- [CurseForge](https://www.curseforge.com/members/lylythii/followers)
-- [Modrinth](https://modrinth.com/user/Lylythii)
-
 - [Vintage Story](https://www.vintagestory.at/profile/48568-lylythii/)
 
 ### Music | Audio | Sound
@@ -68,17 +61,11 @@
 - [Pinterest](https://www.pinterest.ie/Lylythii/)
 - [Tumblr](http://lylythii.tumblr.com)
 
-- [Amazon](https://www.amazon.com/gp/profile/amzn1.account.AGANNRRGSNQU4RIE3EXGX3LYQF7A?e_tf=1)
-- [Enjin](https://www.enjin.com/profile/20879186)
-
-- [Crunchyroll](http://www.crunchyroll.com/user/Lylythii)
-- 
-- [VTubie](https://vtubie.com/u/Lylythii/)
-
 ### Sonemic
 - [Rate Your Music](https://rateyourmusic.com/~Lylythii)
 - [Glitchwave](https://glitchwave.com/user/Lylythii/)
 
-- [Suggested Websites](https://lylythii.github.io/suggested.html)
-
-- [Discord Servers - Owned, Co-Owned, or moderated by Myself](https://lylythii.github.io/discord_servers)
+### Anime
+- [Crunchyroll](http://www.crunchyroll.com/user/Lylythii)
+- [My Anime List](https://myanimelist.net/profile/Lylythii)
+- [VTubie](https://vtubie.com/u/Lylythii/)
