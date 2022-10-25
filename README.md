@@ -1,14 +1,16 @@
-### Where you can find me
+
+/* Bandcamp Follow Url */
+<iframe scrolling="no" style="border: 0;width: 100%;height: 50px;" src="https://bandcamp.com/band_follow_button_deluxe/580516143"></iframe>
+
+/* Ko-Fi Donate Url */
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M84T6NR)
+
+/* Miscellaneous Information */
 - [Contact Information](https://lylythii.github.io/contact.html) | [Pronouns](https://en.pronouns.page/@Lylythii) | [About Me](https://lylythii.github.io/about.html)
 
 
-<iframe scrolling="no" style="border: 0;width: 100%;height: 50px;" src="https://bandcamp.com/band_follow_button_deluxe/580516143"></iframe>
-
-
-
-- [Website](https://sites.google.com/view/lylythii/home)
+- [GitHub IO](https://lylythii.github.io)
 - [Carrd.co](https://lylythii.carrd.co/)
-- [GitHub IO](https://lylythii.github.io/)
 - [Trello](https://trello.com/u/lylythii)
 
 - [GitHub](https://github.com/Lylythii)
@@ -24,7 +26,6 @@
 - [PayPal](https://paypal.me/lylythii)
 - [Throne](https://jointhrone.com/u/lylythii)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M84T6NR)
 
 ### Community
 - [Discord Server](https://discord.gg/xsbNuYXBd5) - [Guilded Guild](https://www.guilded.gg/Lylythii) - [Revolt](https://rvlt.gg/mhm948gx)
@@ -37,7 +38,6 @@
 - [TikTok](https://www.tiktok.com/@lylythii)
 - [Instagram](https://www.instagram.com/lylythii_)
 - [NicoNico](https://www.nicovideo.jp/user/124280200)
-
 
 #### Forums | Threads
 - [Forge Forums](https://forums.minecraftforge.net/profile/169917-lylythii/)
@@ -78,29 +78,10 @@
 - 
 - [VTubie](https://vtubie.com/u/Lylythii/)
 
-
 ### Sonemic
 - [Rate Your Music](https://rateyourmusic.com/~Lylythii)
 - [Glitchwave](https://glitchwave.com/user/Lylythii/)
 
+- [Suggested Websites](https://lylythii.github.io/suggested.html)
 
-### Suggested Websites | Connections | Other
-- [Change.org/Millibucket - Help make Millibuckets a Real Unit of Measurement.](https://www.change.org/millibucket)
-- [GT:NH 24/7 - Streaming GregTech: New Horizons 24/7 up until the last quest is completed.](https://sites.google.com/view/lylythii/project/gtnh247)
-- [How old are the Horizons in GregTech: New Horizons today?](https://howoldarethehorizonsingregtechnewhorizons.today/) - Site by [Lgmrszd](https://twitter.com/lgmrszd)
-- [Foresight - Projects & Information](https://teamforesight.github.io)
-- [TerraFirmaCraft: Reloaded - Projects & Information](https://terrafirmacraft-reloaded.github.io)
-- [Asiekierka's Minecraft-Tans Wiki](https://zeta.asie.pl/wiki/doku.php?id=research:minecraft_tans)
-
-
-
-### Discord Servers - Owned, Co-Owned, or moderated by Myself
-
-#### [All Things Lylythii](https://discord.gg/xsbNuYXBd5) | Owner | Public Server Dedicated to All Things Lylythii |
-<iframe src="https://discord.com/widget?id=872021270135439381&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-#### [The TerraFirmaCraft Network](https://discord.gg/mTnrBmGMg9) | Owner | TerraFirmaCraft Focused Modding Community |
-<iframe src="https://discord.com/widget?id=478300826771652610&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-#### [Foresight](https://discord.gg/8qUAFXk5A6) | Co-Owner | Modding Community |
-<iframe src="https://discord.com/widget?id=827784247590387762&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-#### [Nyagi's Digital Shithole](https://discord.gg/hEGKHAUKMY) | Moderator | **18+ ONLY Community** |
-<iframe src="https://discord.com/widget?id=938689735700934657&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+- [### Discord Servers - Owned, Co-Owned, or moderated by Myself](https://lylythii.github.io/discord_servers)
