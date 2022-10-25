@@ -81,4 +81,4 @@
 
 - [Suggested Websites](https://lylythii.github.io/suggested.html)
 
-- [### Discord Servers - Owned, Co-Owned, or moderated by Myself](https://lylythii.github.io/discord_servers)
+- [Discord Servers - Owned, Co-Owned, or moderated by Myself](https://lylythii.github.io/discord_servers)
