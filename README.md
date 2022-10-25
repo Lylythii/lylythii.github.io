@@ -1,5 +1,5 @@
 ### Where you can find me
-- [Contact Information](https://sites.google.com/view/lylythii/contact) | [How to Refer to Me](https://en.pronouns.page/@Lylythii) | ["About Me" Page](https://sites.google.com/view/lylythii/about)
+- [Contact Information](https://lylythii.github.io/contact.html) | [Pronouns](https://en.pronouns.page/@Lylythii) | [About Me](https://lylythii.github.io/about.html)
 
 
 <iframe scrolling="no" style="border: 0;width: 100%;height: 50px;" src="https://bandcamp.com/band_follow_button_deluxe/580516143"></iframe>
