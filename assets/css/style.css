@@ -1,3 +1,5 @@
+@import "jekyll-theme-minimal";
+
 :root {
   --color-text: black;
   --color-background: white;
