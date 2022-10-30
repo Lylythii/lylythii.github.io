@@ -15,25 +15,26 @@ Worst case, you intended to have your recipient do the talking for you, or to en
 
 ### Prior informing someone you have intentions to tell them something is unproductive.
 ### It can go one of a few ways.
+### 1
 - Person A says "I have to tell you something".
 - Person B must now ask what this inevitable question is. (it would have occurred regardless)
 - Person B must now wait for a response that might not even occur any time soon.
 - Person B may experience stress. Lose productivity awaiting a response or speaking for you.
 - Person A may respond, but because the interaction required active communication, it took several hours, or days.
 
-
+### 2
 - Person A says "I have to tell you something".
 - Person B ignores the request awaiting an actual message with content.
 - Person A gets frustrated. Places blame on Person B
 
-
+### 3
 - Person A says "We need to talk".
 - Person A may announce intentions to speak, but in the future. Not right now.
 - Person B asks.
 - Person A does not respond.
 - Person B is now stressed.
 
-
+### 4
 - Person A says "We need to talk, later". (Artificially delayed.) (Seriously, don't do this one.)
 - Person B is stressed. (If you, Person B, are spiteful, respond with a "Yes we do". If you're stressed, they're stressed. Fair is fair.)
 
