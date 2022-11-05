@@ -9,10 +9,10 @@
 - [Discord Server](https://discord.gg/xsbNuYXBd5) - [Guilded Guild](https://www.guilded.gg/Lylythii) - [Revolt](https://rvlt.gg/mhm948gx)
 
 ### Mods & Modding
-- [CurseForge](https://www.curseforge.com/members/lylythii/projects) | [Modrinth](https://modrinth.com/user/Lylythii)
+- [CurseForge](https://www.curseforge.com/members/lylythii/projects) - [Modrinth](https://modrinth.com/user/Lylythii)
 
 ### Websites
-- [GitHub IO](https://lylythii.github.io) | [Carrd.co](https://lylythii.carrd.co/)
+- [GitHub IO](https://lylythii.github.io) - [Carrd.co](https://lylythii.carrd.co/)
 
 ### Miscellaneous
 - [Trello](https://trello.com/u/lylythii)
