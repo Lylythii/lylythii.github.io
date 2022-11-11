@@ -12,7 +12,3 @@
 ### [Foresight](https://discord.gg/8qUAFXk5A6)
 #### Co-Owner | Modding Community
 <iframe src="https://discord.com/widget?id=827784247590387762&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
-### [Nyagi's Digital Shithole](https://discord.gg/hEGKHAUKMY)
-#### Moderator **18+ ONLY Community**
-<iframe src="https://discord.com/widget?id=938689735700934657&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
