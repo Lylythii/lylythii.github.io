@@ -2,7 +2,7 @@
 ## Discord Servers - Owned, Co-Owned, or Moderated by Myself
 
 ### [All Things Lylythii](https://discord.gg/xsbNuYXBd5)
-#### Owner Public Server Dedicated to All Things Lylythii
+#### Owner | Public Server Dedicated to All Things Lylythii
 <iframe src="https://discord.com/widget?id=872021270135439381&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ### [The TerraFirmaCraft Network](https://discord.gg/mTnrBmGMg9)
