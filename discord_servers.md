@@ -9,7 +9,7 @@
 #### Owner | TerraFirmaCraft Focused Modding Community
 <iframe src="https://discord.com/widget?id=478300826771652610&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-### [TerraFirmaCraft: The Final Frontier](https://discord.gg/mTnrBmGMg9)
+### [TerraFirmaCraft: The Final Frontier](https://discord.gg/88g6P4HQ)
 #### Owner | Work-in-progress Minecraft/TerraFirmaCraft Total Overhaul Modpack Project
 <iframe src="https://discord.com/widget?id=900127596979839007&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
