@@ -22,6 +22,7 @@
 - [Miraheze](https://meta.miraheze.org/wiki/User:Lylythii)
 - [Amazon](https://www.amazon.com/gp/profile/amzn1.account.AGANNRRGSNQU4RIE3EXGX3LYQF7A?e_tf=1)
 - [Enjin](https://www.enjin.com/profile/20879186)
+- [Osu](https://osu.ppy.sh/users/32361002)
 - [Suggested Websites](https://lylythii.github.io/suggested.html)
 - [Discord Servers - Owned, Co-Owned, or moderated by Myself](https://lylythii.github.io/discord_servers)
 
