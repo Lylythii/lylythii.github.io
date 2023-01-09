@@ -6,7 +6,7 @@ It's a bit easier to be technically-minded & write this as more of a "resource" 
 ## Where to people know me from?
 While I can't be absolutely sure for you, & given I tend to "make my way around" places. I can be sure some people probably know me from YouTube, Discord, or perhaps Soundcloud if you're feeling extra curious.
 
-Some time ago I uploaded the official soundtrack for '[Minecraft: Lily Pad (Alpha-ver 1.0.16)]()' to [YouTube](https://www.youtube.com/playlist?list=PL3BvUG7U9__lkhbUqYUTR81bqkXsiKeD2), & [Soundcloud](https://soundcloud.com/lylythii/sets/minecraft-alpha-1016-lilypad-ost). & Prior to that the Minecraft [1.18](https://youtu.be/T8FZLbFQAuY) & [1.19](https://youtu.be/9gxhESR1--A) OST's to YouTube.
+Some time ago I uploaded the official soundtrack for '[Minecraft: Lily Pad (Alpha-ver 1.0.16)](https://www.youtube.com/channel/UCVWxjZ0nHFYNq7Iv7NiBvzQ)' to [YouTube](https://www.youtube.com/playlist?list=PL3BvUG7U9__lkhbUqYUTR81bqkXsiKeD2), & [Soundcloud](https://soundcloud.com/lylythii/sets/minecraft-alpha-1016-lilypad-ost). & Prior to that the Minecraft [1.18](https://youtu.be/T8FZLbFQAuY) & [1.19](https://youtu.be/9gxhESR1--A) OST's to YouTube.
 This increased my channel growth a lot. & many users still find their way back to it.
 Maybe you like [TerraFirmaCraft](https://curseforge.com/minecraft/mc-mods/TerraFirmaCraft) & wanted to listen to the soundtrack in full. I also shared that [here](https://youtu.be/QTclcZFbGN4).
 
@@ -26,7 +26,7 @@ We'll see where that goes in the future.
 
 ## Minecraft & Modding
 I dabble in modding at times, probably biting off more than I can handle, but we make-do.
-Most of my modding stuff related to Minecraft ends up on [CurseForge](https;//curseforge.com/members/lylythii/projects).
+Most of my modding stuff related to Minecraft ends up on [CurseForge](https://curseforge.com/members/lylythii/projects).
 I am working on a Minecraft total overhaul project in my spare time, originally based on the mod TerraFirmaCraft. It's a long way from being complete, but I do hope it'll be worth the wait.
 That project is intended to have its own lore, original soundtrack, sound design & art style. A unique progression tree & gameplay concepts.
 I'll keep you updated on that when I can, but a lot of what gets done in relation to it stays behind closed doors for now. & my free time is very limited currently, unfortunately.
