@@ -34,7 +34,7 @@ I'll keep you updated on that when I can, but a lot of what gets done in relatio
 If you've been around the TerraFirmaCraft community long enough, you've probably encounted a modpack called 'TerraFirmaCraft: Reloaded'.
 I've always, somewhat, had involvements in that projects growth & community. & while it might not show like it used to then, we're still around.
 I'm still trying to relight the fire that went out all those years ago.
-In relation to that I'm currently porting TerraFirmaCraft: Reloaded to [TerraFirmaCraft+](https://cursforge.com/minecraft/mc-mods/tfcplus), & hope to maintain it on that version, with a public community server, for as long as reasonably possible.
+In relation to that I'm currently porting TerraFirmaCraft: Reloaded to [TerraFirmaCraft+](https://curseforge.com/minecraft/mc-mods/tfcplus), & hope to maintain it on that version, with a public community server, for as long as reasonably possible.
 
 ## Theming & Modding
 If you've known me for long enough you'll probably start to notice that I like to modify & alter everything I can get my hands on, make something new of it, or something personal or unique.
