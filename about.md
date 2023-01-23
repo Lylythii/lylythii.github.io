@@ -22,7 +22,7 @@ I'm not very good at it, but I do stream when I get the chance. When I do it's o
 ## YouTube & Content Creation
 Currently my content is a bit all over the place, ranging from sharing music albums, to some tracks I made.
 I'm hoping to improve that, share more original works, collaborate with others & upload gameplay, stream VOD's, & development updates for the projects I'm working on.
-We'll see where that goes in the future.
+We'll see where that goes in the future. You can find that all here; [@Lylythii](https://youtube.com/@Lylythii)
 
 ## Minecraft & Modding
 I dabble in modding at times, probably biting off more than I can handle, but we make-do.
@@ -31,7 +31,7 @@ I am working on a Minecraft total overhaul project in my spare time, originally 
 That project is intended to have its own lore, original soundtrack, sound design & art style. A unique progression tree & gameplay concepts.
 I'll keep you updated on that when I can, but a lot of what gets done in relation to it stays behind closed doors for now. & my free time is very limited currently, unfortunately.
 
-If you've been around the TerraFirmaCraft community long enough, you've probably encounted a modpack called 'TerraFirmaCraft: Reloaded'.
+If you've been around the TerraFirmaCraft community long enough, you've probably encounted a modpack called '[TerraFirmaCraft: Reloaded](https://www.curseforge.com/minecraft/modpacks/terrafirmacraft-reloaded)'.
 I've always, somewhat, had involvements in that projects growth & community. & while it might not show like it used to then, we're still around.
 I'm still trying to relight the fire that went out all those years ago.
 In relation to that I'm currently porting TerraFirmaCraft: Reloaded to [TerraFirmaCraft+](https://curseforge.com/minecraft/mc-mods/terrafirmacraftplus), & hope to maintain it on that version, with a public community server, for as long as reasonably possible.
@@ -40,4 +40,10 @@ In relation to that I'm currently porting TerraFirmaCraft: Reloaded to [TerraFir
 If you've known me for long enough you'll probably start to notice that I like to modify & alter everything I can get my hands on, make something new of it, or something personal or unique.
 Some solid examples of this would be client-side theming of applications, some I've shared, some I haven't or won't for one reason or another.
 You can find that stuff on my [GitHub](https://github.com/Lylythii).
+
+Examples of which being the [CurseForge desktop application](https://github.com/Lylythii/JVNE/tree/main/curseforge), Discord (across several clients), Spotify (via [Spicetify](https://github.com/Spicetify/Spicetify-cli)), Guilded (via [ReGuilded](https://github.com/Reguilded/Reguilded), or [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)) & the [GitHub Desktop](https://github.com/Lylythii/GitHub-Desktop-Modifications) application.
+Most of that is listed on my [JVNE](https://github.com/Lylythii/JVNE) GitHub repository.
+
+![CurseForge Sewerslvt Background](https://raw.githubusercontent.com/BetterCurseForge/.github/main/profile/preview.webp)
+![Spotify Spicetify Theme](https://raw.githubusercontent.com/Lylythii/SpicetifyAddons/main/Themes/Jvne/preview_0.png)
 
