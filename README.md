@@ -1,6 +1,7 @@
 
 
-<iframe scrolling="no" style="border: 0;width: 100%;height: 50px;" src="https://bandcamp.com/band_follow_button_deluxe/580516143"></iframe>
+<iframe scrolling="no" style="border: 0;width: 100%;height: 50px;" src="https://bandcamp.com/band_follow_button_deluxe/580516143"></iframe> [![Discord](https://discordapp.com/api/guilds/872021270135439381/widget.png?style=banner2)](https://discord.gg/xsbNuYXBd5)
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=phbsaxbo0hqqoufu4hga4816r&cover_image=true&theme=natemoo-re&show_offline=false&background_color=7f24f0&bar_color=470689&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=phbsaxbo0hqqoufu4hga4816r&redirect=true)
 
