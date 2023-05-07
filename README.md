@@ -13,15 +13,29 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M84T6NR)
 
 ### Community
+<details>
+
 - [Discord Server](https://discord.gg/xsbNuYXBd5) - [Guilded Guild](https://www.guilded.gg/Lylythii) - [Revolt](https://rvlt.gg/mhm948gx)
 
+</details>
+
 ### Mods & Modding
+<details>
+
 - [CurseForge](https://www.curseforge.com/members/lylythii/projects) - [Modrinth](https://modrinth.com/user/Lylythii)
 
+</details>
+
 ### Websites
+<details>
+
 - [GitHub IO](https://lylythii.github.io) - [Carrd.co](https://lylythii.carrd.co/)
 
+</details>
+
 ### Miscellaneous
+<details>
+
 - [Trello](https://trello.com/u/lylythii)
 - [GitHub](https://github.com/Lylythii)
 - [Stack Overflow](https://stackoverflow.com/users/16361766/lylythii)
@@ -33,7 +47,11 @@
 - [Suggested Websites](https://lylythii.github.io/suggested.html)
 - [Discord Servers - Owned, Co-Owned, or moderated by Myself](https://lylythii.github.io/discord_servers)
 
+</details>
+
 ### Profiles | Socials | Media | Streaming
+<details>
+
 - [YouTube](https://www.youtube.com/@Lylythii) - [YouTube Accounts](https://lylythii.github.io/accounts/youtube.html)
 - [Twitter](https://twitter.com/lylythii) - [Twitter Accounts](https://lylythii.github.io/accounts/twitter.html)
 - [Twitch](https://www.twitch.tv/lylythii) - [Twitch Accounts](https://lylythii.github.io/accounts/twitch)
@@ -41,7 +59,11 @@
 - [Instagram](https://www.instagram.com/lylythii_)
 - [NicoNico](https://www.nicovideo.jp/user/124280200)
 
+</details>
+
 #### Forums | Threads
+<details>
+
 - [Forge Forums](https://forums.minecraftforge.net/profile/169917-lylythii/)
 - [Feed The Beast Forums](https://forum.feed-the-beast.com/members/lylythii.490154)
 - [TerraFirmaCraft Forums](https://tng.terrafirmacraft.com/User:Lylythii)
@@ -53,7 +75,11 @@
 - [MCMod.cn - Author Page](https://www.mcmod.cn/author/26700.html)
 - [Vintage Story](https://www.vintagestory.at/profile/48568-lylythii/)
 
+</details>
+
 ### Music | Audio | Sound
+<details>
+
 - [Bandcamp](https://lylythii.bandcamp.com/)
 - [SoundCloud](https://soundcloud.com/lylythii)
 - [Deezer](https://www.deezer.com/en/profile/4492277082)
@@ -64,17 +90,31 @@
 - [Freesound](https://freesound.org/people/Lylythii/)
 - [Looperman](https://www.looperman.com/users/profile/5647408)
 
+</details>
+
 ### Art | Media
+<details>
+
 - [Pixiv](https://www.pixiv.net/en/users/69876794)
 - [Deviant Art](https://www.deviantart.com/lylythii)
 - [Pinterest](https://www.pinterest.ie/Lylythii/)
 - [Tumblr](http://lylythii.tumblr.com)
 
+</details>
+
 ### Sonemic
+<details>
+
 - [Rate Your Music](https://rateyourmusic.com/~Lylythii)
 - [Glitchwave](https://glitchwave.com/user/Lylythii/)
 
+</details>
+
 ### Anime
+<details>
+
 - [Crunchyroll](http://www.crunchyroll.com/user/Lylythii)
 - [My Anime List](https://myanimelist.net/profile/Lylythii)
 - [VTubie](https://vtubie.com/u/Lylythii/)
+
+</details>
