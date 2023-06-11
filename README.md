@@ -32,6 +32,7 @@
 - [Osu](https://osu.ppy.sh/users/32361002)
 - [Suggested Websites](https://lylythii.github.io/suggested.html)
 - [Discord Servers - Owned, Co-Owned, or moderated by Myself](https://lylythii.github.io/discord_servers)
+- [PC Part Picker](https://ie.pcpartpicker.com/user/Lylythii)
 
 ### Profiles | Socials | Media | Streaming
 - [YouTube](https://www.youtube.com/@Lylythii) - [YouTube Accounts](https://lylythii.github.io/accounts/youtube.html)
