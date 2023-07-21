@@ -36,6 +36,7 @@
 
 ### Profiles | Socials | Media | Streaming
 - [YouTube](https://www.youtube.com/@Lylythii) - [YouTube Accounts](https://lylythii.github.io/accounts/youtube.html)
+- [YouTube - Topic](https://www.youtube.com/channel/UCgcyYE-B6gqar_y1jM8c_HA)
 - [Twitter](https://twitter.com/lylythii) - [Twitter Accounts](https://lylythii.github.io/accounts/twitter.html)
 - [Twitch](https://www.twitch.tv/lylythii) - [Twitch Accounts](https://lylythii.github.io/accounts/twitch)
 - [TikTok](https://www.tiktok.com/@lylythii)
