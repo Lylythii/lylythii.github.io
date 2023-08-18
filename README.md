@@ -18,9 +18,6 @@
 ### Mods & Modding
 - [CurseForge](https://www.curseforge.com/members/lily/projects) - [Modrinth](https://modrinth.com/user/Lylythii)
 
-### Websites
-- [GitHub IO](https://lylythii.github.io) - [Carrd.co](https://lylythii.carrd.co/)
-
 ### Miscellaneous
 - [Trello](https://trello.com/u/lylythii)
 - [GitHub](https://github.com/Lylythii)
@@ -37,8 +34,8 @@
 ### Profiles | Socials | Media | Streaming
 - [YouTube](https://www.youtube.com/@Lylythii) - [YouTube Accounts](https://lylythii.github.io/accounts/youtube.html)
 - [YouTube - Topic](https://www.youtube.com/channel/UCgcyYE-B6gqar_y1jM8c_HA)
-- [Twitter](https://twitter.com/lylythii) - [Twitter Accounts](https://lylythii.github.io/accounts/twitter.html)
-- [Twitch](https://www.twitch.tv/lylythii) - [Twitch Accounts](https://lylythii.github.io/accounts/twitch)
+- [Twitter](https://twitter.com/lylythii)
+- [Twitch](https://www.twitch.tv/lylythii)
 - [TikTok](https://www.tiktok.com/@lylythii)
 - [Instagram](https://www.instagram.com/lylythii_)
 - [NicoNico](https://www.nicovideo.jp/user/124280200)
