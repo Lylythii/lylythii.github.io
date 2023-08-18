@@ -1,5 +1,9 @@
 # Suggested Websites
 
+### Podcasts
+- [The Blindboy Podcast (Spotify)](https://open.spotify.com/show/7HinkS0WZqDuMXYh02EUY1)
+- [The Blindboy Podcast (Acast)](https://play.acast.com/s/blindboy)
+ 
 ### Forums
 - [GregTech & Mechaenetia Forums](https://forum.mechaenetia.com)
 
@@ -16,4 +20,3 @@
 
 ### Friends
 - [Aikoyori](https://aikoyori.xyz)
-- [Tralomine](https://tralomine.gay)
