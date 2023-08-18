@@ -3,7 +3,8 @@
 ### Podcasts
 - [The Blindboy Podcast (Spotify)](https://open.spotify.com/show/7HinkS0WZqDuMXYh02EUY1)
 - [The Blindboy Podcast (Acast)](https://play.acast.com/s/blindboy)
- 
+- [The Blindboy Podcast (Apple)](https://podcasts.apple.com/ie/podcast/the-blindboy-podcast/id1300577518)
+
 ### Forums
 - [GregTech & Mechaenetia Forums](https://forum.mechaenetia.com)
 
