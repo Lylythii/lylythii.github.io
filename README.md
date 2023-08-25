@@ -35,6 +35,7 @@
 - [YouTube](https://www.youtube.com/@Lylythii) - [YouTube Accounts](https://lylythii.github.io/accounts/youtube.html)
 - [YouTube - Topic](https://www.youtube.com/channel/UCgcyYE-B6gqar_y1jM8c_HA)
 - [Twitter](https://twitter.com/lylythii)
+- [Bluesky](https://bsky.app/profile/lylythii.bsky.social)
 - [Twitch](https://www.twitch.tv/lylythii)
 - [TikTok](https://www.tiktok.com/@lylythii)
 - [Instagram](https://www.instagram.com/lylythii_)
