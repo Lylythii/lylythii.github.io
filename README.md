@@ -61,7 +61,8 @@
 - [Spotify (Personal Profile)](https://open.spotify.com/user/phbsaxbo0hqqoufu4hga4816r)
 - [Mixcloud](https://www.mixcloud.com/Lylythii/)
 - [Discogs](https://www.discogs.com/user/Lylythii)
-- [LastFM](https://www.last.fm/user/Lylythii)
+- [LastFM (User Profile)](https://www.last.fm/user/Lylythii)
+- [LastFM (Artist Panel)](https://www.last.fm/music/Lylythii)
 - [Freesound](https://freesound.org/people/Lylythii/)
 - [Looperman](https://www.looperman.com/users/profile/5647408)
 
