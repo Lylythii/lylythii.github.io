@@ -5,6 +5,14 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=phbsaxbo0hqqoufu4hga4816r&cover_image=true&theme=natemoo-re&show_offline=false&background_color=7f24f0&bar_color=470689&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=phbsaxbo0hqqoufu4hga4816r&redirect=true)
 
 [![Discord](https://discordapp.com/api/guilds/872021270135439381/widget.png?style=banner2)](https://discord.gg/xsbNuYXBd5)
+<iframe
+    title="Discord user embed"
+    width="340"
+    height=120
+    frameborder="0"
+    sandbox="allow-scripts"
+    src="https://widgets.vendicated.dev/user?id=857969485670383647&theme=dark&banner=true&full-banner=false&rounded-corners=true&discord-icon=false&badges=true&guess-nitro=true&background-color=%232C0F15&foreground-color=%23E76680"
+></iframe>
 
 - [Contact Information](https://lylythii.github.io/contact.html) | [Pronouns](https://en.pronouns.page/@Lylythii) | [About Me](https://lylythii.github.io/about.html) | [Donate](https://lylythii.github.io/donate.html)
 
